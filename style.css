@@ -537,20 +537,21 @@ width: 350px;
     }
 
     .common{
-        padding-left: 20px;
+        padding-left: 10px;
         height: 140px;
         width:130px;
     }
 
     .my-card{
         height:170px;
-        width:100px;
+        width:115px;
         border-radius: 0px;
-        padding: 10px;
+        padding: 0px;
+        font-size: 15px;
     }
 
     .box-4{
-        height:360px;
+        height:450px;
         width:400px;
         margin-left: 5px;
         margin-right: 5px;
